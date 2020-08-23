@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  <icon>https://www.gravatar.com/avatar/59588000c631edb863184bb6ca2810b7</icon>
+  
+  <link href="http://yoursite.com/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2020-08-23T17:28:06.792Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>John Doe</name>
+    <email>chao.w@sjtu.edu.cn</email>
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test</title>
+    <link href="http://yoursite.com/2020/08/24/test/"/>
+    <id>http://yoursite.com/2020/08/24/test/</id>
+    <published>2020-08-23T17:28:06.000Z</published>
+    <updated>2020-08-23T17:28:06.792Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>algorithm</title>
+    <link href="http://yoursite.com/2020/08/24/algorithm/"/>
+    <id>http://yoursite.com/2020/08/24/algorithm/</id>
+    <published>2020-08-23T16:00:13.000Z</published>
+    <updated>2020-08-23T16:08:53.137Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="第一章-基本数据结构"><a href="#第一章-基本数据结构" class="headerlink" title="第一章 基本数据结构"></a>第一章 基本数据结构</h2><h3 id="1-1-栈"><a href="#1-1-栈" class="headerlink" title="1.1 栈"></a>1.1 栈</h3><h3 id="1-2-队列"><a href="#1-2-队列" class="headerlink" title="1.2 队列"></a>1.2 队列</h3><h3 id="1-3-优先队列-堆"><a href="#1-3-优先队列-堆" class="headerlink" title="1.3 优先队列(堆)"></a>1.3 优先队列(堆)</h3><h3 id="1-4-树"><a href="#1-4-树" class="headerlink" title="1.4 树"></a>1.4 树</h3><h3 id="1-5-图"><a href="#1-5-图" class="headerlink" title="1.5 图"></a>1.5 图</h3><h2 id="第二章-遍历方法的使用"><a href="#第二章-遍历方法的使用" class="headerlink" title="第二章 遍历方法的使用"></a>第二章 遍历方法的使用</h2><h3 id="2-1-BFS"><a href="#2-1-BFS" class="headerlink" title="2.1 BFS"></a>2.1 BFS</h3><h3 id="2-2-DFS"><a href="#2-2-DFS" class="headerlink" title="2.2 DFS"></a>2.2 DFS</h3><h2 id="第三章-树的算法"><a href="#第三章-树的算法" class="headerlink" title="第三章 树的算法"></a>第三章 树的算法</h2><h2 id="第四章-图的算法"><a href="#第四章-图的算法" class="headerlink" title="第四章 图的算法"></a>第四章 图的算法</h2><h2 id="第五章-动态规划"><a href="#第五章-动态规划" class="headerlink" title="第五章 动态规划"></a>第五章 动态规划</h2><h3 id="5-1-背包问题"><a href="#5-1-背包问题" class="headerlink" title="5.1 背包问题"></a>5.1 背包问题</h3><h2 id="第六章-特殊经典算法"><a href="#第六章-特殊经典算法" class="headerlink" title="第六章 特殊经典算法"></a>第六章 特殊经典算法</h2><h2 id="第七章-特殊数据结构"><a href="#第七章-特殊数据结构" class="headerlink" title="第七章 特殊数据结构"></a>第七章 特殊数据结构</h2>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;第一章-基本数据结构&quot;&gt;&lt;a href=&quot;#第一章-基本数据结构&quot; class=&quot;headerlink&quot; title=&quot;第一章 基本数据结构&quot;&gt;&lt;/a&gt;第一章 基本数据结构&lt;/h2&gt;&lt;h3 id=&quot;1-1-栈&quot;&gt;&lt;a href=&quot;#1-1-栈&quot; class=&quot;he</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>netty</title>
+    <link href="http://yoursite.com/2020/08/23/netty/"/>
+    <id>http://yoursite.com/2020/08/23/netty/</id>
+    <published>2020-08-23T15:28:06.000Z</published>
+    <updated>2020-08-23T15:48:58.301Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="第一章-服务器端"><a href="#第一章-服务器端" class="headerlink" title="第一章 服务器端"></a>第一章 服务器端</h2><h3 id="1-1-主从线程池"><a href="#1-1-主从线程池" class="headerlink" title="1.1 主从线程池"></a>1.1 主从线程池</h3>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;第一章-服务器端&quot;&gt;&lt;a href=&quot;#第一章-服务器端&quot; class=&quot;headerlink&quot; title=&quot;第一章 服务器端&quot;&gt;&lt;/a&gt;第一章 服务器端&lt;/h2&gt;&lt;h3 id=&quot;1-1-主从线程池&quot;&gt;&lt;a href=&quot;#1-1-主从线程池&quot; class=&quot;he</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>readme</title>
+    <link href="http://yoursite.com/2020/08/23/readme/"/>
+    <id>http://yoursite.com/2020/08/23/readme/</id>
+    <published>2020-08-23T15:27:52.000Z</published>
+    <updated>2020-08-23T15:27:52.594Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>linux</title>
+    <link href="http://yoursite.com/2020/08/23/linux/"/>
+    <id>http://yoursite.com/2020/08/23/linux/</id>
+    <published>2020-08-23T15:27:40.000Z</published>
+    <updated>2020-08-23T15:52:32.221Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="第一章-基本命令"><a href="#第一章-基本命令" class="headerlink" title="第一章 基本命令"></a>第一章 基本命令</h2><h3 id="1-1-帮助命令"><a href="#1-1-帮助命令" class="headerlink" title="1.1 帮助命令"></a>1.1 帮助命令</h3><pre><code>man [命令名称]</code></pre><h3 id="1-2-显示文件命令"><a href="#1-2-显示文件命令" class="headerlink" title="1.2 显示文件命令"></a>1.2 显示文件命令</h3><p>显示当前文件夹所有的显视文件</p><pre><code>ls</code></pre><p>显示当前文件夹所有文件包括隐藏文件</p><pre><code>ls -l</code></pre>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;第一章-基本命令&quot;&gt;&lt;a href=&quot;#第一章-基本命令&quot; class=&quot;headerlink&quot; title=&quot;第一章 基本命令&quot;&gt;&lt;/a&gt;第一章 基本命令&lt;/h2&gt;&lt;h3 id=&quot;1-1-帮助命令&quot;&gt;&lt;a href=&quot;#1-1-帮助命令&quot; class=&quot;head</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>pytorch</title>
+    <link href="http://yoursite.com/2020/08/23/pytorch/"/>
+    <id>http://yoursite.com/2020/08/23/pytorch/</id>
+    <published>2020-08-23T15:27:22.000Z</published>
+    <updated>2020-08-23T15:47:40.091Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="第一章-张量、数组及数据的加载"><a href="#第一章-张量、数组及数据的加载" class="headerlink" title="第一章 张量、数组及数据的加载"></a>第一章 张量、数组及数据的加载</h2><p>&emsp;张量是神经网络计算的基础，使用numpy和torch很容易进行数组和张量的转换。通过加载数据集里的数据到数组，再通过数组转换成张量进行运算。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;第一章-张量、数组及数据的加载&quot;&gt;&lt;a href=&quot;#第一章-张量、数组及数据的加载&quot; class=&quot;headerlink&quot; title=&quot;第一章 张量、数组及数据的加载&quot;&gt;&lt;/a&gt;第一章 张量、数组及数据的加载&lt;/h2&gt;&lt;p&gt;&amp;emsp;张量是神经网络计算的基础</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>markdown</title>
+    <link href="http://yoursite.com/2020/08/23/markdown/"/>
+    <id>http://yoursite.com/2020/08/23/markdown/</id>
+    <published>2020-08-23T15:27:05.000Z</published>
+    <updated>2020-08-23T17:33:55.809Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="第一章-基本语法"><a href="#第一章-基本语法" class="headerlink" title="第一章 基本语法"></a>第一章 基本语法</h2><h3 id="1-1-首行缩进"><a href="#1-1-首行缩进" class="headerlink" title="1.1 首行缩进"></a>1.1 首行缩进</h3><p>输入一个空格</p><pre><code>&amp;ensp;</code></pre><p>输入两个空格</p><pre><code>&amp;emsp; </code></pre><h3 id="1-2-插入代码"><a href="#1-2-插入代码" class="headerlink" title="1.2 插入代码"></a>1.2 插入代码</h3><p>使用tab键或四个连续空格</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;第一章-基本语法&quot;&gt;&lt;a href=&quot;#第一章-基本语法&quot; class=&quot;headerlink&quot; title=&quot;第一章 基本语法&quot;&gt;&lt;/a&gt;第一章 基本语法&lt;/h2&gt;&lt;h3 id=&quot;1-1-首行缩进&quot;&gt;&lt;a href=&quot;#1-1-首行缩进&quot; class=&quot;head</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>java</title>
+    <link href="http://yoursite.com/2020/08/23/java/"/>
+    <id>http://yoursite.com/2020/08/23/java/</id>
+    <published>2020-08-23T15:26:53.000Z</published>
+    <updated>2020-08-23T16:05:16.083Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="第一章-类"><a href="#第一章-类" class="headerlink" title="第一章 类"></a>第一章 类</h2><h3 id="1-1-类成员"><a href="#1-1-类成员" class="headerlink" title="1.1 类成员"></a>1.1 类成员</h3><p>&emsp;类成员包含类成员方法和类成员变量，需注意的是其声明 如</p><pre><code>privatepublicprotected</code></pre><p>其中private 代表的是私有，该类的实例化对象不能调用。类的内部实现时，类成员能够调用。</p><p>其中public 代表的是公开，类的实例化对象可以调用。</p><p>其中protected 代表的是保护，和private 的区别是在继承时，子类的成员可以对父类的成员进行调用。</p><h2 id="第二章-java基本容器"><a href="#第二章-java基本容器" class="headerlink" title="第二章 java基本容器"></a>第二章 java基本容器</h2>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;第一章-类&quot;&gt;&lt;a href=&quot;#第一章-类&quot; class=&quot;headerlink&quot; title=&quot;第一章 类&quot;&gt;&lt;/a&gt;第一章 类&lt;/h2&gt;&lt;h3 id=&quot;1-1-类成员&quot;&gt;&lt;a href=&quot;#1-1-类成员&quot; class=&quot;headerlink&quot; title=</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2020/08/22/hello-world/"/>
+    <id>http://yoursite.com/2020/08/22/hello-world/</id>
+    <published>2020-08-22T02:03:01.185Z</published>
+    <updated>2020-08-22T02:03:01.185Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
