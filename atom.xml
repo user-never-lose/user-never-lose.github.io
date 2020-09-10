@@ -107,9 +107,9 @@
     <link href="http://yoursite.com/2020/08/23/pytorch/"/>
     <id>http://yoursite.com/2020/08/23/pytorch/</id>
     <published>2020-08-23T15:27:22.000Z</published>
-    <updated>2020-08-23T15:47:40.091Z</updated>
+    <updated>2020-09-07T16:25:13.034Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="第一章-张量、数组及数据的加载"><a href="#第一章-张量、数组及数据的加载" class="headerlink" title="第一章 张量、数组及数据的加载"></a>第一章 张量、数组及数据的加载</h2><p>&emsp;张量是神经网络计算的基础，使用numpy和torch很容易进行数组和张量的转换。通过加载数据集里的数据到数组，再通过数组转换成张量进行运算。</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="第一章-张量、数组及数据的加载"><a href="#第一章-张量、数组及数据的加载" class="headerlink" title="第一章 张量、数组及数据的加载"></a>第一章 张量、数组及数据的加载</h2><p>&emsp;张量是神经网络计算的基础，使用numpy和torch很容易进行数组和张量的转换。通过加载数据集里的数据到数组，再通过数组转换成张量进行运算。</p><h3 id="1-1-numpy的属性"><a href="#1-1-numpy的属性" class="headerlink" title="1.1 numpy的属性"></a>1.1 numpy的属性</h3><p>ndim 维度<br>shape 张量形状<br>size 元素个数</p><h2 id="第二章-torch基本方法"><a href="#第二章-torch基本方法" class="headerlink" title="第二章 torch基本方法"></a>第二章 torch基本方法</h2><p>1）torch.as_tensor(data, dtype=None, device=None) → Tensor</p><p>&emsp;将data 转换成tensor 张量，data 可以是list,tuple,numpy,scalar 等数据。</p><p>&emsp;dtype 返回的张量的数据类型，如果是None，则用data 的数据类型。</p><p>&emsp;device 设置的是返回的张量将运行在某个GPU或者CPU设备上。</p><pre><code>&gt;&gt;&gt; a = numpy.array([1, 2, 3])&gt;&gt;&gt; t = torch.as_tensor(a)&gt;&gt;&gt; ttensor([ 1,  2,  3])&gt;&gt;&gt; t[0] = -1&gt;&gt;&gt; aarray([-1,  2,  3])&gt;&gt;&gt; a = numpy.array([1, 2, 3])&gt;&gt;&gt; t = torch.as_tensor(a, device=torch.device(&#39;cuda&#39;))&gt;&gt;&gt; ttensor([ 1,  2,  3])&gt;&gt;&gt; t[0] = -1&gt;&gt;&gt; aarray([1,  2,  3])</code></pre><p>2)</p>]]></content>
     
     
       
@@ -127,7 +127,7 @@
     <link href="http://yoursite.com/2020/08/23/markdown/"/>
     <id>http://yoursite.com/2020/08/23/markdown/</id>
     <published>2020-08-23T15:27:05.000Z</published>
-    <updated>2020-08-23T17:33:55.809Z</updated>
+    <updated>2020-09-07T15:41:33.171Z</updated>
     
     <content type="html"><![CDATA[<h2 id="第一章-基本语法"><a href="#第一章-基本语法" class="headerlink" title="第一章 基本语法"></a>第一章 基本语法</h2><h3 id="1-1-首行缩进"><a href="#1-1-首行缩进" class="headerlink" title="1.1 首行缩进"></a>1.1 首行缩进</h3><p>输入一个空格</p><pre><code>&amp;ensp;</code></pre><p>输入两个空格</p><pre><code>&amp;emsp; </code></pre><h3 id="1-2-插入代码"><a href="#1-2-插入代码" class="headerlink" title="1.2 插入代码"></a>1.2 插入代码</h3><p>使用tab键或四个连续空格</p>]]></content>
     
